@@ -3,5 +3,4 @@ function tablaDelSeis() {
   // Desde 0 al 60.
   // Tu código:
 }
-
 module.exports = tablaDelSeis;
